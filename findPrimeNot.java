@@ -1,6 +1,7 @@
-package day2;
+package array;
 
-public class findPrimeNot {
+public class findPrimeNot 
+{
 
 	public static void main(String[] args) 
 	{
@@ -26,5 +27,4 @@ public class findPrimeNot {
 			}
 		System.out.println();
 	}
-
 }
